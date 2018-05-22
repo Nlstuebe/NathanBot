@@ -1,0 +1,2 @@
+# NathanBot
+Discord Bot
